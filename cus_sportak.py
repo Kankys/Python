@@ -1,0 +1,1 @@
+print("Čus Sporťák!")
